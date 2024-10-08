@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋! My name is Lucas, I'm a Game Developer from Brazil</h2>
 
 ###
-
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasjanta&theme=tokyonight" alt="mystreak"/>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjanta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjanta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
