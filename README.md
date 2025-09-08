@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-I’m Lucas Ferreira, a brazilian game developer working on gamejams and prototypes!
+I’m Lucas Ferreira, a brazilian game developer creating small games, prototypes and mechanics using Godot!
 
 - Graduated in Digital Games 
 - Godot Engine | React + NextJS | Figma
