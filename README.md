@@ -10,6 +10,6 @@ If you need help with your project, send me a message on Fiverr:
 
 ###
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=lucasjanta&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=lucasjanta&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjanta&layout=compact&theme=radical)
 
