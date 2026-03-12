@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="234.29"
+          width="234.27"
           height="8"
           fill="#355570"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.29"
+          x="234.27"
           y="0"
           width="16.04"
           height="8"
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.32999999999998"
+          x="240.31"
           y="0"
           width="13.27"
           height="8"
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.6"
+          x="243.58"
           y="0"
           width="13.24"
           height="8"
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.84"
+          x="246.82000000000002"
           y="0"
-          width="12.620000000000001"
+          width="12.61"
           height="8"
           fill="#663399"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.46"
+          x="249.43000000000004"
           y="0"
-          width="10.54"
+          width="10.57"
           height="8"
           fill="#478CBF"
         />
@@ -198,7 +198,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 2.42%
+        C# 2.41%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#478CBF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GDShader 0.22%
+        GDShader 0.23%
       </text>
     </g>
   </g></g>
