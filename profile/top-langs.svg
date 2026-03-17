@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="234.62"
+          width="234.63"
           height="8"
           fill="#355570"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.62"
+          x="234.63"
           y="0"
           width="15.9"
           height="8"
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.52"
+          x="240.53"
           y="0"
           width="13.19"
           height="8"
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.71"
+          x="243.72"
           y="0"
-          width="13.17"
+          width="13.16"
           height="8"
           fill="#e34c26"
         />
@@ -170,7 +170,7 @@
           data-testid="lang-progress"
           x="246.88"
           y="0"
-          width="12.56"
+          width="12.55"
           height="8"
           fill="#663399"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.44"
+          x="249.43"
           y="0"
-          width="10.56"
+          width="10.57"
           height="8"
           fill="#478CBF"
         />
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#478CBF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GDShader 0.22%
+        GDShader 0.23%
       </text>
     </g>
   </g></g>
