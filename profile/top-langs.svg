@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="234.65"
+          width="234.66"
           height="8"
           fill="#355570"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.65"
+          x="234.66"
           y="0"
-          width="15.89"
+          width="15.879999999999999"
           height="8"
           fill="#178600"
         />
@@ -150,7 +150,7 @@
           data-testid="lang-progress"
           x="240.54"
           y="0"
-          width="13.19"
+          width="13.18"
           height="8"
           fill="#f1e05a"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.73"
+          x="243.72"
           y="0"
-          width="13.16"
+          width="13.15"
           height="8"
           fill="#e34c26"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.89"
+          x="246.87"
           y="0"
           width="12.55"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.44"
+          x="249.42000000000002"
           y="0"
-          width="10.57"
+          width="10.59"
           height="8"
           fill="#478CBF"
         />
@@ -198,7 +198,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 2.36%
+        C# 2.35%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#478CBF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GDShader 0.23%
+        GDShader 0.24%
       </text>
     </g>
   </g></g>
