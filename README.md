@@ -6,11 +6,8 @@ If you need help with your project, send me a message on Fiverr:
 [My Gig](https://www.fiverr.com/s/XLbZP8V)
 
 - Graduated in Digital Games 
-- Godot Engine | React + NextJS | Figma
+- Godot Engine | Aseprite | Figma
 
 ###
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
 
